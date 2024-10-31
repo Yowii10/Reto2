@@ -1,5 +1,6 @@
 package Ejercicios;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Funciones2 {
@@ -61,4 +62,8 @@ public static double galonesaLitros(double galones) {
 		
 	}
 		
+=======
+public class Funciones2 {
+	
+>>>>>>> branch 'main' of https://github.com/Yowii10/Reto2.git
 }
